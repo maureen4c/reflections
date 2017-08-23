@@ -496,7 +496,7 @@ BigAlien = function () {
   this.setup = function () {
     this.newPosition();
 
-    for (var i = 0; i < 3; i++) {
+    for (var i = 0; i < 2; i++) {
       var bull = new AlienBullet();
       this.bullets.push(bull);
       Game.sprites.push(bull);
