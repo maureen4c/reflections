@@ -1,0 +1,16 @@
+Here are my notes from the Git lessons:
+
+First Control and Click on file allows you to download
+
+The command for file compare is different for Windows:
+
+FC fileold.js filenew.js
+
+The comparable command in Linux is:
+
+diff -u fileold.js filenew.js
+
+
+the git command window is in start>git>git bash
+
+The dos command prompt for windows is in the start>accessories>command prompt path
